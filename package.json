@@ -1,0 +1,27 @@
+{
+  "name": "socket.ioTester",
+  "version": "0.0.1",
+  "description": "Socket.io generic client, ideal for test websockets servers using socket.io",
+  "main": "app.js",
+  "dependencies": {
+    "shotgun": "~4.0.1",
+    "socket.io": "~0.9.16",
+    "socket.io-client": "~0.9.16"
+  },
+  "devDependencies": {},
+  "repository": {
+    "type": "git",
+    "url": "git@github.com:rkgarcia/socket.ioTester.git"
+  },
+  "keywords": [
+    "socket.io",
+    "websockets",
+    "tester",
+    "cli"
+  ],
+  "author": "rkgarcia",
+  "license": "BSD-2-Clause",
+  "bugs": {
+    "url": "https://github.com/rkgarcia/socket.ioTester/issues"
+  }
+}
